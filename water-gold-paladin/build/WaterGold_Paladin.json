@@ -1,0 +1,12 @@
+{
+  "id": "WaterGold_Paladin",
+  "name": "圣骑士",
+  "author": "WaterGold",
+  "description": "旨在新增一个角色：圣骑士，兼备输出与回血",
+  "version": "v0.1",
+  "has_pck": true,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": true,
+  "dependencies": [{"id": "BaseLib", "min_version": "3.3.1"}],
+}
