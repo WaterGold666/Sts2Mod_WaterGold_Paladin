@@ -1,0 +1,7 @@
+{
+	"HOLY_FLASHHEAL.description": "恢复{Heal:diff()}点血量",
+	"HOLY_FLASHHEAL.title": "圣光闪现",
+	
+	"STRIKEPALADIN.description": "造成{Damage:diff()}点伤害",
+	"STRIKEPALADIN.title": "打击"
+}

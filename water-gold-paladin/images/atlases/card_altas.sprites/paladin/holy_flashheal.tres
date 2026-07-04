@@ -1,0 +1,7 @@
+[gd_resource type="AtlasTexture" load_steps=2 format=3 uid="uid://c0off2l"]
+
+[ext_resource type="Texture2D" uid="uid://dmxaneqcsjxb1" path="res://images/packed/card_portraits/paladin/holy_flashheal.png" id="1_y2heb"]
+
+[resource]
+atlas = ExtResource("1_y2heb")
+region = Rect2(0, 0, 128, 128)

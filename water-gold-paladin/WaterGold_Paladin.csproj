@@ -28,8 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="src\Core\Models\Relics\" />
+    <Folder Include="src\Core\Entities\Players\" />
     <Folder Include="src\Core\Models\Potions\" />
-    <Folder Include="src\Core\Models\Powers\" />
   </ItemGroup>  
 </Project>
